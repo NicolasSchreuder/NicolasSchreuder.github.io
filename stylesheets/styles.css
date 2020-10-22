@@ -11,6 +11,14 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
+footer {
+    clear: both;
+    position: absolute;
+    height: 0px;
+    margin-top: 200px;
+}
+
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
